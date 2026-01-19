@@ -1,0 +1,253 @@
+@import "../styles/main.css";
+@source "../node_modules/streamdown/dist/index.js";
+
+:root {
+  /* Colors - Using fire design system colors */
+  --color-primary: var(--heat-100);
+  --color-accent: var(--heat-200);
+  --color-background: var(--background-base);
+  --color-text-primary: var(--accent-black);
+  --color-link: var(--heat-100);
+  --color-border: var(--border-muted);
+  --color-secondary-bg: var(--background-lighter);
+
+  /* Fire Design System Colors for Tailwind utilities */
+  --color-heat-4: var(--heat-4);
+  --color-heat-8: var(--heat-8);
+  --color-heat-12: var(--heat-12);
+  --color-heat-16: var(--heat-16);
+  --color-heat-20: var(--heat-20);
+  --color-heat-40: var(--heat-40);
+  --color-heat-100: var(--heat-100);
+  --color-heat-200: var(--heat-200);
+  --color-accent-black: var(--accent-black);
+  --color-accent-white: var(--accent-white);
+  --color-accent-amethyst: var(--accent-amethyst);
+  --color-accent-bluetron: var(--accent-bluetron);
+  --color-accent-crimson: var(--accent-crimson);
+  --color-black-alpha-1: var(--black-alpha-1);
+  --color-black-alpha-2: var(--black-alpha-2);
+  --color-black-alpha-3: var(--black-alpha-3);
+  --color-black-alpha-4: var(--black-alpha-4);
+  --color-black-alpha-5: var(--black-alpha-5);
+  --color-black-alpha-6: var(--black-alpha-6);
+  --color-black-alpha-7: var(--black-alpha-7);
+  --color-black-alpha-8: var(--black-alpha-8);
+  --color-black-alpha-10: var(--black-alpha-10);
+  --color-black-alpha-12: var(--black-alpha-12);
+  --color-black-alpha-16: var(--black-alpha-16);
+  --color-black-alpha-20: var(--black-alpha-20);
+  --color-black-alpha-24: var(--black-alpha-24);
+  --color-black-alpha-32: var(--black-alpha-32);
+  --color-black-alpha-40: var(--black-alpha-40);
+  --color-black-alpha-48: var(--black-alpha-48);
+  --color-black-alpha-56: var(--black-alpha-56);
+  --color-black-alpha-64: var(--black-alpha-64);
+  --color-black-alpha-72: var(--black-alpha-72);
+  --color-black-alpha-88: var(--black-alpha-88);
+  --color-white-alpha-56: var(--white-alpha-56);
+  --color-white-alpha-72: var(--white-alpha-72);
+  --color-border-faint: var(--border-faint);
+  --color-border-muted: var(--border-muted);
+  --color-border-loud: var(--border-loud);
+  --color-background-lighter: var(--background-lighter);
+  --color-background-base: var(--background-base);
+  --color-foreground: var(--foreground);
+  --color-foreground-dimmer: var(--foreground-dimmer);
+
+  /* Fonts - SuisseIntl with system fonts as fallback */
+  --font-sans: 'SuisseIntl', var(--font-sans);
+
+  /* Spacing */
+  --spacing-base: 4px;
+  --radius-default: 6px;
+  --radius-button-primary: 10px;
+  --radius-button-secondary: 8px;
+
+  /* Font Sizes - Using fire design system */
+  --text-h1: 24px;
+  --text-h2: 20px;
+  --text-h3: 18px;
+  --text-h4: 16px;
+  --text-h5: 15px;
+  --text-body: 16px;
+  --text-title-h1: 24px;
+  --text-title-h2: 20px;
+  --text-title-h3: 18px;
+  --text-title-h4: 16px;
+  --text-title-h5: 15px;
+  --text-body-x-large: 22px;
+  --text-body-large: 18px;
+  --text-body-medium: 16px;
+  --text-body-small: 14px;
+  --text-body-x-small: 12px;
+  --text-label-x-large: 22px;
+  --text-label-large: 18px;
+  --text-label-medium: 16px;
+  --text-label-small: 15px;
+  --text-mono-large: 16px;
+  --text-mono-medium: 14px;
+  --text-mono-small: 12px;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: var(--background-base);
+  color: var(--accent-black);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Force light mode - disable dark mode media query */
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: light;
+  }
+}
+
+h1 {
+  font-size: var(--text-h1);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: var(--text-h2);
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+h3 {
+  font-size: var(--text-h3);
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+h4 {
+  font-size: var(--text-h4);
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+h5 {
+  font-size: var(--text-h5);
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: var(--heat-100);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--heat-200);
+  text-decoration: underline;
+}
+
+/* Accordion animations */
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+/* Scout visual display animations */
+@keyframes scanner {
+  0% {
+    top: 0%;
+  }
+  100% {
+    top: 100%;
+  }
+}
+
+@keyframes screenshot-scroll {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-30%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes selection-pulse-green {
+  0%, 100% {
+    border-color: rgb(34, 197, 94);
+    background-color: rgba(34, 197, 94, 0.05);
+  }
+  50% {
+    border-color: rgb(34, 197, 94);
+    background-color: rgba(34, 197, 94, 0.1);
+  }
+}
+
+@keyframes button-press {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.9);
+  }
+}
+
+.scanner-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(251, 146, 60, 0.8), transparent);
+  box-shadow: 0 0 10px rgba(251, 146, 60, 0.5);
+  animation: scanner 3s linear infinite;
+}
+
+.screenshot-scroll-container {
+  width: 100%;
+  height: 100%;
+}

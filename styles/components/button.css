@@ -1,0 +1,102 @@
+.button {
+  transition: all 0.2s cubic-bezier(0.25, 0.1, 0.25, 1),
+    scale 0.1s cubic-bezier(0.25, 0.1, 0.25, 1),
+    box-shadow 0.1s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.button:active {
+  transition: all 0.2s cubic-bezier(0.25, 0.1, 0.25, 1),
+    scale 0.05s cubic-bezier(0.25, 0.1, 0.25, 1),
+    box-shadow 0.05s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.button-primary {
+  background: #ff4c00;
+  background: color(display-p3 0.9816 0.3634 0.0984);
+
+  box-shadow: 0px -6px 12px 0px rgba(255, 0, 0, 0.2) inset,
+    0px 2px 4px 0px rgba(255, 77, 0, 0.12),
+    0px 1px 1px 0px rgba(255, 77, 0, 0.12),
+    0px 0.5px 0.5px 0px rgba(255, 77, 0, 0.16),
+    0px 0.25px 0.25px 0px rgba(255, 77, 0, 0.2);
+
+  box-shadow: 0px -6px 12px 0px color(display-p3 0.9804 0.1127 0.098 / 0.2) inset,
+    0px 2px 4px 0px color(display-p3 0.9804 0.3647 0.098 / 0.12),
+    0px 1px 1px 0px color(display-p3 0.9804 0.3647 0.098 / 0.12),
+    0px 0.5px 0.5px 0px color(display-p3 0.9804 0.3647 0.098 / 0.16),
+    0px 0.25px 0.25px 0px color(display-p3 0.9804 0.3647 0.098 / 0.2);
+}
+
+.button-primary:hover {
+  box-shadow: 0px -6px 12px 0px rgba(255, 0, 0, 0.2) inset,
+    0px 4px 8px 0px rgba(255, 77, 0, 0.16),
+    0px 1px 1px 0px rgba(255, 77, 0, 0.12),
+    0px 0.5px 0.5px 0px rgba(255, 77, 0, 0.16),
+    0px 0.25px 0.25px 0px rgba(255, 77, 0, 0.2);
+  box-shadow: 0px -6px 12px 0px color(display-p3 0.9804 0.1127 0.098 / 0.2) inset,
+    0px 4px 8px 0px color(display-p3 0.9804 0.3647 0.098 / 0.16),
+    0px 1px 1px 0px color(display-p3 0.9804 0.3647 0.098 / 0.12),
+    0px 0.5px 0.5px 0px color(display-p3 0.9804 0.3647 0.098 / 0.16),
+    0px 0.25px 0.25px 0px color(display-p3 0.9804 0.3647 0.098 / 0.2);
+}
+
+.button-primary:active {
+  box-shadow: 0px -6px 12px 0px rgba(255, 0, 0, 0.2) inset,
+    0px 2px 4px 0px rgba(255, 77, 0, 0.12),
+    0px 1px 1px 0px rgba(255, 77, 0, 0.12),
+    0px 0.5px 0.5px 0px rgba(255, 77, 0, 0.16),
+    0px 0.25px 0.25px 0px rgba(255, 77, 0, 0.2);
+  box-shadow: 0px -6px 12px 0px color(display-p3 0.9804 0.1127 0.098 / 0.2) inset,
+    0px 2px 4px 0px color(display-p3 0.9804 0.3647 0.098 / 0.12),
+    0px 1px 1px 0px color(display-p3 0.9804 0.3647 0.098 / 0.12),
+    0px 0.5px 0.5px 0px color(display-p3 0.9804 0.3647 0.098 / 0.16),
+    0px 0.25px 0.25px 0px color(display-p3 0.9804 0.3647 0.098 / 0.2);
+}
+
+.button-background {
+  background: linear-gradient(to bottom, white, transparent);
+
+  opacity: 0.06;
+
+  transition: opacity 0.2s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.button:hover .button-background {
+  opacity: 0.08;
+}
+
+.button:active .button-background {
+  opacity: 0;
+
+  transition: opacity 0.05s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+/* Premium button styles with gradient */
+.btn-gradient {
+  background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%);
+  color: white;
+  font-weight: 600;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.btn-gradient:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgb(255 107 107 / 0.3);
+}
+
+.btn-gradient::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn-gradient:hover::before {
+  left: 100%;
+}

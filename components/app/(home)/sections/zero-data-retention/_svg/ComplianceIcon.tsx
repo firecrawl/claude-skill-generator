@@ -1,0 +1,30 @@
+export default function ComplianceIcon() {
+  return (
+    <div className="w-40 h-40 bg-heat-12 rounded-12 flex items-center justify-center flex-shrink-0">
+      <svg
+        width="20"
+        height="20"
+        viewBox="0 0 20 20"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M3 6L10 2L17 6V12C17 15.5 14 18.5 10 18.5C6 18.5 3 15.5 3 12V6Z"
+          stroke="currentColor"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          className="text-heat-100"
+        />
+        <path
+          d="M7 10L9 12L13 8"
+          stroke="currentColor"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          className="text-heat-100"
+        />
+      </svg>
+    </div>
+  );
+}

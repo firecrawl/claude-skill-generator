@@ -1,0 +1,13 @@
+/* Fire Design System Main Import */
+
+/* Import design system components */
+@import "./design-system/fonts.css";
+@import "./design-system/colors.css";
+@import "./design-system/typography.css";
+@import "./design-system/animations.css";
+@import "./design-system/utilities.css";
+
+/* Import component styles */
+@import "./components/button.css";
+
+

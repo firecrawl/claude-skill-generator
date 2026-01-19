@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /_next/static/
+Disallow: /_next/static/css/
+Disallow: /logos
+Disallow: /api/
+Disallow: /assets
+Disallow: /assets-original
+Disallow: /fonts

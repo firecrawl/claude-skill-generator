@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/</loc>
+  <lastmod>2024-04-10T05:02:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/.</loc>
+  <lastmod>2024-04-10T05:02:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/module_guides/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/optimizing/production_rag/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/api_reference/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/community/integrations/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/concepts/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/installation/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/reading/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/starter_example/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/discover_llamaindex/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/customization/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/rag_cli/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/using_llms/using_llms/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/loading/loading/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/loading/llamahub/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/indexing/indexing/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/storing/storing/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/querying/querying/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/tracing_and_debugging/tracing_and_debugging/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/evaluating/evaluating/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/evaluating/cost_analysis/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/evaluating/cost_analysis/usage_pattern/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/agents/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/apps/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/graphs/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/q_and_a/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/structured_data/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/apps/fullstack_app_guide/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/apps/fullstack_with_delphic/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/chatbots/building_a_chatbot/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/q_and_a/terms_definitions_tutorial/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/agents/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/chatbots/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/multimodal/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/extraction/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/use_cases/fine_tuning/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/Chatbot_SEC/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_forced_function_call/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/custom_agent/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_assistant_query_cookbook/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/query_pipeline_agent/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/agent_runner/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/agent_runner_rag/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/agent_runner_rag_controllable/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/react_agent_with_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_assistant_agent/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/multi_document_agents-v1/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_parallel_function_calling/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/react_agent/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/agent_builder/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_context_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/multi_document_agents/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_with_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_query_cookbook/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_query_plan/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_retrieval_benchmark/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/agent_around_query_pipeline_with_HyDE_for_PDFs/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/mistral_agent/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/openai_agent_tool_call_parser/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/return_direct_agent/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/agent/anthropic_agent/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/HoneyHiveLlamaIndexTracer/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/PromptLayerHandler/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/TokenCountingHandler/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/LlamaDebugHandler/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/OpenLLMetry/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/UpTrainCallback/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/WandbCallbackHandler/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/AimCallback/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/OpenInferenceCallback/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/callbacks/LangfuseCallbackHandler/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_personality/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_openai/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_context/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_best/</loc>
+  <lastmod>2024-04-10T05:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_react/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_repl/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_condense_plus_context/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/chat_engine/chat_engine_condense_question/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/cookbooks/cohere_retriever_eval/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/cookbooks/mixedbread_reranker/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/cookbooks/mistralai/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/cookbooks/anthropic_haiku/</loc>
+  <lastmod>2024-04-10T05:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/streaming/chat_engine_condense_question_stream_response/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/streaming/SimpleIndexDemo-streaming/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/prompts/completion_prompts/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/prompts/chat_prompts/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/llms/SimpleIndexDemo-ChatGPT/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/llms/SimpleIndexDemo-Huggingface_stablelm/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/llms/SimpleIndexDemo-Huggingface_camel/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/customization/llms/AzureOpenAI/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/simple_directory_reader_parallel/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/DeepLakeReader/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/PsychicDemo/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/QdrantDemo/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/html_tag_reader/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/DiscordDemo/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/MongoDemo/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/ChromaDemo/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/MyScaleReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/FaissDemo/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/ObsidianReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/SlackDemo/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/WebPageDemo/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/PineconeDemo/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/MboxReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/MilvusReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/NotionDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/DashvectorReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/PathwayReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/deplot/DeplotReader/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/GithubRepositoryReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/simple_directory_reader/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/GoogleDocsDemo/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/DatabaseReaderDemo/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/TwitterDemo/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/WeaviateDemo/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/MakeDemo/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/GoogleSheetsDemo/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/simple_directory_reader_remote_fs/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/data_connectors/GoogleDriveDemo/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/discover_llamaindex/document_management/Discord_Thread_Management/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/docstore/DynamoDBDocstoreDemo/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/docstore/RedisDocstoreIndexStoreDemo/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/docstore/MongoDocstoreDemo/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/docstore/FirestoreDemo/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/docstore/DocstoreDemo/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/fastembed/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/text_embedding_inference/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/clarifai/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/bedrock/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/voyageai/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/ollama_embedding/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/gradient/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/custom_embeddings/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/gemini/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/huggingface/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/Anyscale/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/optimum_intel/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/jinaai_embeddings/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/fireworks/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/nomic/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/mistralai/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/dashscope_embeddings/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/jina_embeddings/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/llm_rails/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/google_palm/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/sagemaker_embedding_endpoint/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/Langchain/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/elasticsearch/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/OpenAI/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/cohereai/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/together/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/llamafile/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/premai/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/alephalpha/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/itrex/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/cloudflare_workersai/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/embeddings/openvino/</loc>
+  <lastmod>2024-04-10T05:02:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/TonicValidateEvaluators/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/semantic_similarity_eval/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/batch_eval/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/mt_bench_human_judgement/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/mt_bench_single_grading/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/answer_and_context_relevancy/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/prometheus_evaluation/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/faithfulness_eval/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/HotpotQADistractor/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/RetryQuery/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/correctness_eval/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/UpTrain/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/QuestionGeneration/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/retrieval/retriever_eval/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/multi_modal/multi_modal_rag_evaluation/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/BeirEvaluation/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/relevancy_eval/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/Deepeval/</loc>
+  <lastmod>2024-04-10T05:02:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/guideline_eval/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/evaluation/pairwise_eval/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/gradient/gradient_structured/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/gradient/gradient_fine_tuning/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/gradient/gradient_text2sql/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/embeddings/finetune_embedding/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/embeddings/finetune_embedding_adapter/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/openai_fine_tuning_functions/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/rerankers/cohere_custom_reranker/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/openai_fine_tuning/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/cross_encoder_finetuning/cross_encoder_finetuning/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/react_agent/react_agent_finetune/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/llm_judge/pairwise/finetune_llm_judge/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/llm_judge/correctness/finetune_llm_judge_single_grading_correctness/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/finetuning/router/router_finetune/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/ingestion/async_ingestion_pipeline/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/ingestion/parallel_execution_ingestion_pipeline/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/ingestion/document_management_pipeline/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/ingestion/ingestion_gdrive/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/ingestion/advanced_ingestion_pipeline/</loc>
+  <lastmod>2024-04-10T05:02:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/ingestion/redis_ingestion_pipeline/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_dataset/uploading_llama_dataset/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_dataset/labelled-rag-datasets/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_dataset/downloading_llama_datasets/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_dataset/ragdataset_submission_template/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_hub/llama_pack_ollama/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_hub/llama_packs_example/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_hub/llama_hub/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llama_hub/llama_pack_resume/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/rungpt/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/watsonx/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/openllm/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/openai_json_vs_function_calling/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/mymagic/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/portkey/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/everlyai/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/palm/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/cohere/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/vertex/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/predibase/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/llama_api/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/clarifai/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/bedrock/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/llama_2/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/gradient_model_adapter/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/maritalk/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/nvidia_tensorrt/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/xinference_local_deployment/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/azure_openai/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/gemini/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/huggingface/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/anyscale/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/vicuna/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/openrouter/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/fireworks/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/llama_2_rap_battle/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/vllm/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/dashscope/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/localai/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/llm_predictor/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/mistralai/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/monsterapi/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/ai21/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/llama_2_llama_cpp/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/nvidia_triton/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/perplexity/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/litellm/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/ollama/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/neutrino/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/groq/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/langchain/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/sagemaker_endpoint_llm/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/openai/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/anthropic/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/gradient_base_model/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/ollama_gemma/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/konko/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/together/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/fireworks_cookbook/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/friendli/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/modelscope/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/llamafile/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/premai/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/solar/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/alephalpha/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/ipex_llm/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/databricks/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/llm/openvino/</loc>
+  <lastmod>2024-04-10T05:02:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/oss_ingestion_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/fusion_retriever/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/router/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/retrieval/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/evaluation/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/response_synthesis/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/vector_store/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/low_level/ingestion/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/managed/vectaraDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/managed/manage_retrieval_benchmark/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/managed/GoogleDemo/</loc>
+  <lastmod>2024-04-10T05:02:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/managed/zcpDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/metadata_extraction/MarvinMetadataExtractorDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/metadata_extraction/MetadataExtraction_LLMSurvey/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/metadata_extraction/PydanticExtractor/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/metadata_extraction/EntityExtractionClimate/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/metadata_extraction/MetadataExtractionSEC/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/llava_demo/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/llava_multi_modal_tesla_10q/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/replicate_multi_modal/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/structured_image_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/gpt4v_experiments_cot/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/multi_modal_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/dashscope_multi_modal/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/openai_multi_modal/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/mm_agent/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/azure_openai_multi_modal/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/gemini/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/multi_modal_video_RAG/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/ollama_cookbook/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/ChromaMultiModalDemo/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/multi_modal_pydantic/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/gpt4v_multi_modal_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/image_to_image_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_modal/anthropic_multi_modal/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/multi_tenancy/multi_tenancy_rag/</loc>
+  <lastmod>2024-04-10T05:02:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_parsers/semantic_chunking/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/FileNodeProcessors/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/MetadataReplacementDemo/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/PII/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/PrevNextPostprocessorDemo/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/rankGPT/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/LLMReranker-Gatsby/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/SentenceTransformerRerank/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/LLMReranker-Lyft-10k/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/LongContextReorder/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/CohereRerank/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/RecencyPostprocessorDemo/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/ColbertRerank/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/FlagEmbeddingReranker/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/OptimizerDemo/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/TimeWeightedPostprocessorDemo/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/JinaRerank/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/node_postprocessor/rankLLM/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/objects/object_index/</loc>
+  <lastmod>2024-04-10T05:02:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/llm_program/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/openai_pydantic_program/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/df_program/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/evaporate_program/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/openai_sub_question/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/guidance_pydantic_program/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/GuardrailsDemo/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/LangchainOutputParserDemo/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/lmformatenforcer_pydantic_program/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/lmformatenforcer_regular_expressions/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/output_parsing/guidance_sub_question/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/param_optimizer/param_optimizer/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline_pandas/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline_sql/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline_async/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline_routing/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline_memory/</loc>
+  <lastmod>2024-04-10T05:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/prompts/advanced_prompts/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/prompts/emotion_prompt/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/prompts/prompts_rag/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/prompts/prompt_mixin/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/prompts/prompt_optimization/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/JSONalyze_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/RetrieverRouterQueryEngine/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/pgvector_sql_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/SQLJoinQueryEngine/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/citation_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/pandas_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/ensemble_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/json_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/RouterQueryEngine/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/pydantic_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/cogniswitch_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/pdf_tables/recursive_retriever/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/SQLRouterQueryEngine/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/sec_tables/tesla_10q_table/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/recursive_retriever_agents/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/JointQASummary/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/multi_doc_auto_retrieval/multi_doc_auto_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/flare_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/sub_question_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/SQLAutoVectorQueryEngine/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/custom_query_engine/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_engine/CustomRetrievers/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_transformations/query_transform_cookbook/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_transformations/HyDEQueryTransformDemo/</loc>
+  <lastmod>2024-04-10T05:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/query_transformations/SimpleIndexDemo-multistep/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/response_synthesizers/pydantic_tree_summarize/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/response_synthesizers/refine/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/response_synthesizers/structured_refine/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/response_synthesizers/custom_prompt_synthesizer/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/response_synthesizers/long_context_test/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/response_synthesizers/tree_summarize/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/bm25_retriever/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/composable_retrievers/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/router_retriever/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/recursive_retriever_nodes/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/multi_doc_together_hybrid/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/vectara_auto_retriever/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/pathway_retriever/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/auto_vs_recursive_retriever/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/ensemble_retrieval/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/simple_fusion/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/auto_merging_retriever/</loc>
+  <lastmod>2024-04-10T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/recurisve_retriever_nodes_braintrust/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/deep_memory/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/you_retriever/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/reciprocal_rerank_fusion/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/relative_score_dist_fusion/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/retrievers/videodb_retriever/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/tools/OnDemandLoaderTool/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/tools/eval_query_engine_tool/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/transforms/TransformsEval/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/usecases/10q_sub_question/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/usecases/10k_sub_question/</loc>
+  <lastmod>2024-04-10T05:02:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/usecases/github_issue_analysis/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/usecases/email_data_extraction/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/TypesenseDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/BagelAutoRetriever/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/RocksetIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/TencentVectorDBIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/QdrantIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/Timescalevector/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/MongoDBAtlasVectorSearch/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/DocArrayInMemoryIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/chroma_auto_retriever/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/ZepIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/FaissIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/existing_data/pinecone_existing_data/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/existing_data/weaviate_existing_data/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/SimpleIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/qdrant_hybrid/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/DeepLakeIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/pinecone_metadata_filter/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/Qdrant_using_qdrant_filters/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/elasticsearch_auto_retriever/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/ClickHouseIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/SimpleIndexOnS3/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/TxtaiIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/CassandraIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/Elasticsearch_demo/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/AwadbDemo/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/postgres/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/chroma_metadata_filter/</loc>
+  <lastmod>2024-04-10T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/AzureCosmosDBMongoDBvCoreDemo/</loc>
+  <lastmod>2024-04-10T05:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/UpstashVectorDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/Neo4jVectorDemo/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/ElasticsearchIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/SimpleIndexDemoLlama-Local/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/MyScaleIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/MetalIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/AsyncIndexCreationDemo/</loc>
+  <lastmod>2024-04-10T05:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/TairIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/PineconeIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/MongoDBAtlasVectorSearchRAGOpenAI/</loc>
+  <lastmod>2024-04-10T05:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/RedisIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/JaguarIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/SimpleIndexDemoLlama2/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/WeaviateIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.llamaindex.ai/en/stable/examples/vector_stores/SupabaseVectorIndexDemo/</loc>
+  <lastmod>2024-04-10T05:02:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

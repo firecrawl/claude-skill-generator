@@ -1,0 +1,28 @@
+.ai-chats-chat-thinking {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  background: linear-gradient(
+      to right,
+      transparent 0%,
+      rgba(0, 0, 0, 0.6) 25%,
+      transparent 50%,
+      transparent 100%
+    ),
+    var(--black-alpha-48);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  animation: ai-chats-chat-shine 3.5s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes ai-chats-chat-shine {
+  0% {
+    background-position: 100% 0;
+  }
+  50%,
+  100% {
+    background-position: -100% 0;
+  }
+}

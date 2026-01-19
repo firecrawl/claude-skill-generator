@@ -1,0 +1,21 @@
+.ai-chats-realtime-indicator {
+  animation: ai-chats-realtime-indicator 3s infinite;
+  transform: scale(0.5);
+}
+
+@keyframes ai-chats-realtime-indicator {
+  0% {
+    transform: scale(0.5);
+    opacity: 0.5;
+  }
+
+  60% {
+    opacity: 0;
+  }
+  75%,
+  100% {
+    transform: scale(4);
+    opacity: 0;
+    filter: blur(4px);
+  }
+}

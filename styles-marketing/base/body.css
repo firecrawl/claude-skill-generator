@@ -1,0 +1,89 @@
+body::-webkit-scrollbar,
+.hide-scrollbar::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.03); /* #00000014 */
+  transition: background 0.2s;
+}
+
+::-webkit-scrollbar-thumb:hover,
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(0, 0, 0, 0.12); /* #0000001F */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  overflow-anchor: none;
+}
+
+img,
+video {
+  max-width: unset;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+
+#qwik-image-warning-container {
+  display: none;
+}
+
+input,
+input:focus {
+  outline: 0;
+}
+
+*:focus {
+  outline: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+
+  /* Offset for sticky header to prevent content from being hidden */
+  scroll-padding-top: 90px;
+}
+
+section {
+  position: relative;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  user-select: text;
+}
+
+button {
+  text-align: left;
+  user-select: none;
+}
+
+*::selection {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #3e3e3e;
+}
