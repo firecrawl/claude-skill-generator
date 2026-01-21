@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import JSZip from "jszip";
 import { saveAs } from "file-saver";
 import { motion, AnimatePresence } from "motion/react";
@@ -15,6 +15,16 @@ import DownloadIcon from "./_svg/DownloadIcon";
 import SparkleIcon from "./_svg/SparkleIcon";
 import ChevronIcon from "./_svg/ChevronIcon";
 import EndpointIcon from "./_svg/EndpointIcon";
+import KeyIcon from "./_svg/KeyIcon";
+
+const API_KEY_STORAGE_KEY = "firecrawl_api_key";
+const isProductionMode = process.env.NEXT_PUBLIC_APP_MODE === "PRODUCTION";
+
+// Mask API key for display (show first 6 and last 4 characters)
+function maskApiKey(key: string): string {
+  if (key.length <= 10) return "••••••••••";
+  return `${key.slice(0, 6)}...${key.slice(-4)}`;
+}
 
 export default function SkillGenerator() {
   const [url, setUrl] = useState<string>("");
@@ -24,10 +34,51 @@ export default function SkillGenerator() {
   const [showEndpoints, setShowEndpoints] = useState(false);
   const [showFiles, setShowFiles] = useState(false);
 
+  // API Key states
+  const [hasApiKey, setHasApiKey] = useState(false);
+  const [maskedKey, setMaskedKey] = useState<string>("");
+  const [newApiKey, setNewApiKey] = useState<string>("");
+  const [showApiKeyInput, setShowApiKeyInput] = useState(false);
+
+  // Check for existing API key on mount
+  useEffect(() => {
+    if (isProductionMode) {
+      const storedKey = localStorage.getItem(API_KEY_STORAGE_KEY);
+      if (storedKey) {
+        setHasApiKey(true);
+        setMaskedKey(maskApiKey(storedKey));
+      } else {
+        setShowApiKeyInput(true);
+      }
+    }
+  }, []);
+
+  // Save API key to localStorage
+  const handleSaveApiKey = () => {
+    if (!newApiKey.trim()) return;
+    localStorage.setItem(API_KEY_STORAGE_KEY, newApiKey.trim());
+    setHasApiKey(true);
+    setMaskedKey(maskApiKey(newApiKey.trim()));
+    setNewApiKey("");
+    setShowApiKeyInput(false);
+  };
+
+  // Get API key from localStorage
+  const getApiKey = (): string | null => {
+    return localStorage.getItem(API_KEY_STORAGE_KEY);
+  };
+
   // Generate skill from documentation URL
   const handleGenerate = async () => {
     if (!url.trim()) {
       setError("Please enter a URL");
+      return;
+    }
+
+    // In production mode, require API key
+    if (isProductionMode && !hasApiKey) {
+      setError("Please add your Firecrawl API key first");
+      setShowApiKeyInput(true);
       return;
     }
 
@@ -43,10 +94,20 @@ export default function SkillGenerator() {
     setResult(null);
 
     try {
+      const requestBody: { url: string; apiKey?: string } = { url };
+
+      // Include API key in request if in production mode
+      if (isProductionMode) {
+        const apiKey = getApiKey();
+        if (apiKey) {
+          requestBody.apiKey = apiKey;
+        }
+      }
+
       const response = await fetch("/api/generate-skills", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ url }),
+        body: JSON.stringify(requestBody),
       });
 
       const data: SkillGenerationResponse = await response.json();
@@ -86,8 +147,99 @@ export default function SkillGenerator() {
 
   return (
     <div className="w-full">
+      {/* API Key Section - Only shown in production mode */}
+      {isProductionMode && (
+        <div className="max-w-552 mx-auto w-full mb-16 relative z-[12]">
+          <div
+            className="bg-accent-white rounded-16 p-16"
+            style={{
+              boxShadow:
+                "0px 0px 0px 1px rgba(0, 0, 0, 0.05), 0px 4px 12px -4px rgba(0, 0, 0, 0.06)",
+            }}
+          >
+            <div className="flex items-center justify-between mb-12">
+              <div className="flex items-center gap-8">
+                <KeyIcon />
+                <span className="text-label-medium text-accent-black">
+                  Firecrawl API Key
+                </span>
+              </div>
+              <a
+                href="https://www.firecrawl.dev/app/api-keys"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-label-small text-heat-100 hover:underline"
+              >
+                Get your API key
+              </a>
+            </div>
+
+            {hasApiKey && !showApiKeyInput ? (
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-8">
+                  <span className="px-8 py-4 bg-green-100 text-green-700 text-[12px] font-mono rounded-6">
+                    {maskedKey}
+                  </span>
+                  <span className="text-body-small text-black-alpha-48">
+                    API key saved
+                  </span>
+                </div>
+                <button
+                  onClick={() => setShowApiKeyInput(true)}
+                  className="text-label-small text-black-alpha-56 hover:text-accent-black transition-colors"
+                >
+                  Change key
+                </button>
+              </div>
+            ) : (
+              <div className="space-y-12">
+                <p className="text-body-small text-black-alpha-56">
+                  Enter your Firecrawl API key to generate skills. Your key is stored locally and never sent to our servers.
+                </p>
+                <div className="flex gap-8">
+                  <input
+                    type="password"
+                    className="flex-1 px-12 py-8 bg-black-alpha-4 rounded-8 text-body-small text-accent-black placeholder:text-black-alpha-40 focus:outline-none focus:ring-2 focus:ring-heat-100/20"
+                    placeholder="fc-api-..."
+                    value={newApiKey}
+                    onChange={(e) => setNewApiKey(e.target.value)}
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter") {
+                        handleSaveApiKey();
+                      }
+                    }}
+                  />
+                  <Button
+                    variant="primary"
+                    size="default"
+                    onClick={handleSaveApiKey}
+                    disabled={!newApiKey.trim()}
+                  >
+                    Save Key
+                  </Button>
+                </div>
+                {hasApiKey && (
+                  <button
+                    onClick={() => {
+                      setShowApiKeyInput(false);
+                      setNewApiKey("");
+                    }}
+                    className="text-label-small text-black-alpha-48 hover:text-black-alpha-72"
+                  >
+                    Cancel
+                  </button>
+                )}
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
       {/* Input Section */}
-      <div className="max-w-552 mx-auto w-full relative z-[11] lg:z-[2] rounded-20 lg:-mt-76">
+      <div className={cn(
+        "max-w-552 mx-auto w-full relative z-[11] lg:z-[2] rounded-20",
+        !isProductionMode && "lg:-mt-76"
+      )}>
         <div
           className="overlay bg-accent-white"
           style={{

@@ -107,7 +107,7 @@ async function pollAgentStatus(
 
 export async function POST(request: NextRequest) {
   try {
-    const { url } = await request.json();
+    const { url, apiKey: userApiKey } = await request.json();
 
     if (!url) {
       return NextResponse.json(
@@ -126,8 +126,23 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Get API key from environment
-    const apiKey = process.env.FIRECRAWL_API_KEY;
+    // Determine which API key to use based on app mode
+    const isProductionMode = process.env.NEXT_PUBLIC_APP_MODE === "PRODUCTION";
+    let apiKey: string | undefined;
+
+    if (isProductionMode) {
+      // In production mode, use the user-provided API key
+      if (!userApiKey) {
+        return NextResponse.json(
+          { success: false, error: "API key is required. Please add your Firecrawl API key." },
+          { status: 400 },
+        );
+      }
+      apiKey = userApiKey;
+    } else {
+      // In non-production mode, use the server environment variable
+      apiKey = process.env.FIRECRAWL_API_KEY;
+    }
 
     if (!apiKey) {
       return NextResponse.json(
